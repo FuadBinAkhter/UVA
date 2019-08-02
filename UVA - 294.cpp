@@ -13,7 +13,6 @@ void sieve()
      for( i = 3; i <= sqrtN; i += 2 )
      {
 		 if( Check(status[i<<5],i&31)==0)
-		 //if(!status[i>>1])
 		 {
 	 		 for( j = i*i; j <= N; j += (i<<1) )
 			 {
