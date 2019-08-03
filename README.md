@@ -1,2 +1,2 @@
-# Online-Judge-Solutions
-Here you can find some solutions for online judge problems from different Online Judges(Ex.UVa,Codeforces,LightOJ,Spoj). 
+# UVA-Problems
+This repository contains solutions of different problems from UVA written in C/C++.
