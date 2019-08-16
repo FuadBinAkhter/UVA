@@ -1,2 +1,2 @@
 # UVA-Problems
-This repository contains solutions of different problems from UVA written in C/C++.
+This repository contains solutions of various types of problems of **UVA** written in **C/C++**.
